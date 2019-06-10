@@ -1,0 +1,17 @@
+
+mat-form-field {
+  width:500px !important;
+}
+
+mat-radio-button {
+  margin: 5px 10px;
+}
+
+mat-checkbox {
+  margin: 5px 10px;
+}
+
+.submit-button {
+  width: 500px ;
+  margin-top: 50px;
+}
